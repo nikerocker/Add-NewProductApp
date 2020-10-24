@@ -13,8 +13,8 @@ Setup
 
 
 Tools Used
-Nodejs: created a server to host your app.
-Reactjs: for building component-based user interfaces. 
+*Nodejs: created a server to host your app.
+*Reactjs: for building component-based user interfaces. 
 NextJs: framework for quickly setting up React-based apps.
 Graphql: is a query language for interacting with an API. 
 Apollo: is a family of JavaScript libraries that makes it easier to work with GraphQL.
