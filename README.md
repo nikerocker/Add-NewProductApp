@@ -20,12 +20,14 @@ Tools Used
 *Apollo: is a family of JavaScript libraries that makes it easier to work with GraphQL.
 *Polaris: is Shopify’s React component library and design system. 
 
-Screenshot-1: Entering the information about the new product
+Screenshot-1: Entering the information about the new product.
 <img src="https://github.com/nikerocker/Add-NewProductApp/blob/main/Screenshots/1.png" alt="Demo">
 
 Screenshot-2: The app is installed in the shopify environment.
 <img src="https://github.com/nikerocker/Add-NewProductApp/blob/main/Screenshots/2.png" alt="Demo">
 
-Screenshot-3: Here 
+Screenshot-3: The new product is created with the information provided.(1)
 <img src="https://github.com/nikerocker/Add-NewProductApp/blob/main/Screenshots/3.png" alt="Demo">
+
+Screenshot-4: The new product is created with the information provided.(2)
 <img src="https://github.com/nikerocker/Add-NewProductApp/blob/main/Screenshots/4.png" alt="Demo">
