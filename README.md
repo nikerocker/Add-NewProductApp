@@ -21,14 +21,13 @@ Tools Used
 *Polaris: is Shopify’s React component library and design system. 
 
 
-
-Screenshot-1: Entering the information about the new product.
-<img src="https://github.com/nikerocker/Add-NewProductApp/blob/main/Screenshots/1.png" alt="Demo">
-
-
-
-Screenshot-2: The app is installed in the shopify environment.
+Screenshot-1: The app is installed in the shopify environment. App_name->New Product Upload
 <img src="https://github.com/nikerocker/Add-NewProductApp/blob/main/Screenshots/2.png" alt="Demo">
+
+
+
+Screenshot-2: Entering the information about the new product.
+<img src="https://github.com/nikerocker/Add-NewProductApp/blob/main/Screenshots/1.png" alt="Demo">
 
 
 
