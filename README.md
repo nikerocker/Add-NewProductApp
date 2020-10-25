@@ -1,5 +1,4 @@
-The screenshots for the app is available at screenshots folder
-
+The documentation for Shopify Add New Product App.
 Setup
 1. [Install the latest stable version of Node.js.]
 2. Install npm packages (run: npm install).
