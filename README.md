@@ -20,4 +20,7 @@ Tools Used
 *Apollo: is a family of JavaScript libraries that makes it easier to work with GraphQL.
 *Polaris: is Shopify’s React component library and design system. 
 
-
+<img src="https://github.com/nikerocker/Add-NewProductApp/blob/main/Screenshots/1.png" alt="Demo">
+<img src="https://github.com/nikerocker/Add-NewProductApp/blob/main/Screenshots/2.png" alt="Demo">
+<img src="https://github.com/nikerocker/Add-NewProductApp/blob/main/Screenshots/3.png" alt="Demo">
+<img src="https://github.com/nikerocker/Add-NewProductApp/blob/main/Screenshots/4.png" alt="Demo">
